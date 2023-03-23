@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to create a new React App:
+
+1. `npx create-react-app ReactApp-ExpenseTracker`
+2. `cd ReactApp-ExpenseTracker`
+3. `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
